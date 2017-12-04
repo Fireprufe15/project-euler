@@ -1,0 +1,7 @@
+E:\Development\Project Euler\project-euler\PEProblem4\PEProblem4\bin\Debug\PEProblem4.exe.config
+E:\Development\Project Euler\project-euler\PEProblem4\PEProblem4\bin\Debug\PEProblem4.exe
+E:\Development\Project Euler\project-euler\PEProblem4\PEProblem4\bin\Debug\PEProblem4.pdb
+E:\Development\Project Euler\project-euler\PEProblem4\PEProblem4\obj\Debug\PEProblem4.csprojResolveAssemblyReference.cache
+E:\Development\Project Euler\project-euler\PEProblem4\PEProblem4\obj\Debug\PEProblem4.csproj.CoreCompileInputs.cache
+E:\Development\Project Euler\project-euler\PEProblem4\PEProblem4\obj\Debug\PEProblem4.exe
+E:\Development\Project Euler\project-euler\PEProblem4\PEProblem4\obj\Debug\PEProblem4.pdb
