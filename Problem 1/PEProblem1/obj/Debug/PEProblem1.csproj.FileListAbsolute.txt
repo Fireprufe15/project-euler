@@ -1,0 +1,6 @@
+C:\Users\MG Potgieter\Documents\Code\Project Euler\Problem 1\PEProblem1\bin\Debug\PEProblem1.exe.config
+C:\Users\MG Potgieter\Documents\Code\Project Euler\Problem 1\PEProblem1\bin\Debug\PEProblem1.exe
+C:\Users\MG Potgieter\Documents\Code\Project Euler\Problem 1\PEProblem1\bin\Debug\PEProblem1.pdb
+C:\Users\MG Potgieter\Documents\Code\Project Euler\Problem 1\PEProblem1\obj\Debug\PEProblem1.csprojResolveAssemblyReference.cache
+C:\Users\MG Potgieter\Documents\Code\Project Euler\Problem 1\PEProblem1\obj\Debug\PEProblem1.exe
+C:\Users\MG Potgieter\Documents\Code\Project Euler\Problem 1\PEProblem1\obj\Debug\PEProblem1.pdb
